@@ -10,7 +10,8 @@ This is a web application that will track your excercises over the course of a w
 
 * [Usage](#usage)
 Enter in your daily workouts and store them using this web application. You can view a weekly summary of the workouts by going to the /stats page.
-##License
+
+## License
       This project is licensed under DWTYW.
 
 * [Contributing](#contributing)
